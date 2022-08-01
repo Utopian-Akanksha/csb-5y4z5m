@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "https://utopian-akanksha.github.io/csb-5y4z5m/static/css/main.f29ae65a.chunk.css",
+    "main.js": "https://utopian-akanksha.github.io/csb-5y4z5m/static/js/main.a015642d.chunk.js",
+    "main.js.map": "https://utopian-akanksha.github.io/csb-5y4z5m/static/js/main.a015642d.chunk.js.map",
+    "runtime-main.js": "https://utopian-akanksha.github.io/csb-5y4z5m/static/js/runtime-main.a52da6f7.js",
+    "runtime-main.js.map": "https://utopian-akanksha.github.io/csb-5y4z5m/static/js/runtime-main.a52da6f7.js.map",
+    "static/js/2.fc621195.chunk.js": "https://utopian-akanksha.github.io/csb-5y4z5m/static/js/2.fc621195.chunk.js",
+    "static/js/2.fc621195.chunk.js.map": "https://utopian-akanksha.github.io/csb-5y4z5m/static/js/2.fc621195.chunk.js.map",
+    "index.html": "https://utopian-akanksha.github.io/csb-5y4z5m/index.html",
+    "static/css/main.f29ae65a.chunk.css.map": "https://utopian-akanksha.github.io/csb-5y4z5m/static/css/main.f29ae65a.chunk.css.map",
+    "static/js/2.fc621195.chunk.js.LICENSE.txt": "https://utopian-akanksha.github.io/csb-5y4z5m/static/js/2.fc621195.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.a52da6f7.js",
+    "static/js/2.fc621195.chunk.js",
+    "static/css/main.f29ae65a.chunk.css",
+    "static/js/main.a015642d.chunk.js"
+  ]
+}
